@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anouska</h1>
-<h3 align="center">I am a third-year Computer Science student at SRM Institute of Science and Technology with a strong interest in AI and ML.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
